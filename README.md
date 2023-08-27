@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atrika</h1>
-<h3 align="center">I am a passionate frontend developer from west Bengal,India</h3>
+<h3 align="center">I am a passionate frontend developer from West Bengal, India</h3>
 
-- 🔭 I’m currently Exploring technology which will help me to **become a fullstack web developer**
+- 🔭 I’m currently Exploring technology that will help me to **become a full stack web developer**
 
 - 🌱 I’m currently learning **React.js**
 
@@ -16,8 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/showatrika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="showatrika" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/readeratrika08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="readeratrika08" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atriksa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atriksa" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
