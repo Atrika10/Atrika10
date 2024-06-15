@@ -25,3 +25,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+🤝 ![Met](https://visitor-badge.laobi.icu/badge?page_id=atrika10.atrika10)
+
