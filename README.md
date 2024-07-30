@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atrika</h1>
 <h3 align="center">I am a passionate frontend developer from West Bengal, India</h3>
 
-- 🔭 I’m currently Exploring technology that will help me to **become a full stack web developer**
+- 🔭 I’m currently Exploring technology that will help me to **become a full-stack web developer**
 
 - 🌱 I’m currently learning **React.js**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about anything, **I am happy to help**
 
-- 📫 How to reach me **showatrika01@gmail.com**
+- 📫 How to reach me **atrikashow02@gmail.com**
 
 - ⚡ I would like to share a little more about who I am, **"In addition to my passion for programming, I am also a graceful dancer, an avid reader, and a devoted admirer of nature's beauty."**
 
