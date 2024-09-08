@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Exploring technology that will help me to **become a full-stack web developer**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 🤝I’m looking opportunites **as a frontend developer.**
 
